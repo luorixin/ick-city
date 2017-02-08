@@ -1,0 +1,24 @@
+{
+  "name": "city-node",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luorixin/ick-city.git"
+  },
+  "author": "jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luorixin/ick-city/issues"
+  },
+  "homepage": "https://github.com/luorixin/ick-city#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "utility": "^1.9.0"
+  }
+}
